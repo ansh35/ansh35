@@ -1,10 +1,14 @@
 # Hi there, I'm Ansh Khare 👋
 
-### Full-Stack Developer | Next.js • React • Node.js • TypeScript
+### Full-Stack Developer | Building SaaS & AI-Powered Applications
 
-### Building SaaS & AI-Powered Web Applications
+💼 Full-Stack Developer from India
 
-I am a B.Tech Computer Science graduate and Full-Stack Developer passionate about building scalable web applications, SaaS platforms, and AI-powered products. I enjoy solving real-world problems through technology and continuously improving my development skills by building production-ready applications.
+🎓 B.Tech Computer Science Graduate
+
+🚀 Building SaaS Platforms, AI-Powered Products, and Modern Web Applications
+
+🔍 Currently seeking Full-Stack Developer, Software Developer, and Web Developer opportunities
 
 ---
 
@@ -12,15 +16,15 @@ I am a B.Tech Computer Science graduate and Full-Stack Developer passionate abou
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css\&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
 
@@ -46,55 +50,62 @@ I am a B.Tech Computer Science graduate and Full-Stack Developer passionate abou
 
 ### 🚀 Nexora
 
-A multi-tenant SaaS workspace platform featuring secure authentication, role-based access control (RBAC), organization management, project tracking, task management, and team collaboration. Designed with scalable architecture and modern UI/UX principles.
+Multi-tenant SaaS workspace platform with authentication, RBAC, organization management, project tracking, team collaboration, and scalable architecture.
 
 **Tech Stack:** Next.js, TypeScript, Prisma, MongoDB, NextAuth, Tailwind CSS
+
+🔗 Repository: https://github.com/ansh35/Nexora
 
 ---
 
 ### 🤖 AI Healthcare CRM Assistant
 
-An AI-powered CRM system designed for pharmaceutical and healthcare field teams. Utilizes conversational AI to automate Healthcare Professional (HCP) interaction logging, CRM updates, validation, and follow-up recommendations.
+AI-powered CRM system for pharmaceutical and healthcare field teams that automates HCP interaction logging, CRM updates, validation, and follow-up recommendations.
 
 **Tech Stack:** React, TypeScript, FastAPI, LangChain, LangGraph, Groq, SQLite
+
+🔗 Repository: https://github.com/ansh35/ai_first_crm_hcp_module_log_interaction_screen
 
 ---
 
 ### ⚡ JSON-IQ
 
-An AI-powered JSON workbench that helps developers validate, format, minify, analyze, and debug JSON with intelligent AI-generated explanations and insights.
+AI-powered JSON workbench that validates, formats, minifies, analyzes, and explains JSON errors using AI.
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Groq API
+
+🔗 Live Demo: https://json-iq.vercel.app
+
+🔗 Repository: https://github.com/ansh35/JSON_IQ
 
 ---
 
 ### 📧 AI Email Cleaner
 
-An AI-powered email management platform that helps users organize inboxes by categorizing emails, identifying spam and promotional content, and providing intelligent cleanup recommendations through secure Gmail integration.
+AI-powered email management platform that categorizes emails, identifies spam/promotional content, and provides intelligent inbox cleanup recommendations.
 
 **Tech Stack:** Next.js, TypeScript, Prisma, Gmail API, Groq AI, Tailwind CSS
+
+🔗 Repository: https://github.com/ansh35/AI_Email_Cleaner
 
 ---
 
 ## 🎯 Current Focus
 
 * Building production-ready SaaS applications
-* Developing AI-powered web products
+* Developing AI-powered products
 * Improving backend architecture and system design
-* Exploring scalable full-stack application development
-* Seeking Full-Stack Developer opportunities
+* Learning scalable software engineering practices
+* Contributing consistently to open-source and personal projects
 
 ---
-
-
-## 📫 Connect With Me
 
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://anshkhare-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansh-khare-4019a53aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ansh-khare-4019a53aa)
 [![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge)](https://drive.google.com/file/d/1aFEIeNUV2R4P6N4c2AC_BD3ot24x5cP5/view)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ansh35)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/ansh35)
 
 ---
 

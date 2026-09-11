@@ -74,19 +74,6 @@
 
 ---
 
-## 📈 Engineering Cadence & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ansh35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9" height="155" alt="Ansh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh35&theme=tokyonight&hide_border=true&background=09090b&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9" height="155" alt="Ansh's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansh35&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Target Roles & Value Proposition
 
 - **Roles:** Full-Stack Developer | Software Development Engineer (SDE) | Backend Developer

@@ -1,112 +1,97 @@
-# Hi there, I'm Ansh Khare 👋
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0284c7,100:09090b&height=220&section=header&text=Ansh%20Khare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Distributed%20Web%20Architectures%20%26%20Agentic%20AI&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0284c7,100:09090b&height=220&section=header&text=Ansh%20Khare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Distributed%20Web%20Architectures%20%26%20Agentic%20AI&descAlignY=58&descSize=18)" width="100%" />
 
-### Full-Stack Developer | Building SaaS & AI-Powered Applications
+  <p align="center">
+    <a href="[https://anshkhare-portfolio.vercel.app/](https://anshkhare-portfolio.vercel.app/)"><img src="[https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)" /></a>
+    <a href="[https://www.linkedin.com/in/ansh-khare-4019a53aa](https://www.linkedin.com/in/ansh-khare-4019a53aa)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+    <a href="[https://drive.google.com/file/d/1aFEIeNUV2R4P6N4c2AC_BD3ot24x5cP5/view](https://drive.google.com/file/d/1aFEIeNUV2R4P6N4c2AC_BD3ot24x5cP5/view)"><img src="[https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white](https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white)" /></a>
+    <a href="[https://github.com/ansh35](https://github.com/ansh35)"><img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" /></a>
+  </p>
 
-💼 Full-Stack Developer from India
-
-🎓 B.Tech Computer Science Graduate
-
-🚀 Building SaaS Platforms, AI-Powered Products, and Modern Web Applications
-
-🔍 Currently seeking Full-Stack Developer, Software Developer, and Web Developer opportunities
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
-
-### Databases & ORM
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma\&logoColor=white)
-
-### AI & Tools
-
-![LangChain](https://img.shields.io/badge/LangChain-121212)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000)
-![Groq](https://img.shields.io/badge/Groq-AI-blue)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
+  <p align="center">
+    <strong>Computer Science Graduate & Full-Stack Systems Developer</strong>. Focused on scalable multi-tenant SaaS systems, high-throughput microservices, and stateful multi-agent AI pipelines.
+  </p>
+</div>
 
 ---
 
-## 🌟 Featured Projects
+### 💻 Core Competencies & Architecture Stack
 
-### 🚀 Nexora
-
-Multi-tenant SaaS workspace platform with authentication, RBAC, organization management, project tracking, team collaboration, and scalable architecture.
-
-**Tech Stack:** Next.js, TypeScript, Prisma, MongoDB, NextAuth, Tailwind CSS
-
-🔗 Repository: https://github.com/ansh35/Nexora
-
----
-
-### 🤖 AI Healthcare CRM Assistant
-
-AI-powered CRM system for pharmaceutical and healthcare field teams that automates HCP interaction logging, CRM updates, validation, and follow-up recommendations.
-
-**Tech Stack:** React, TypeScript, FastAPI, LangChain, LangGraph, Groq, SQLite
-
-🔗 Repository: https://github.com/ansh35/ai_first_crm_hcp_module_log_interaction_screen
+| Domain | Core Technologies & Architecture Tools |
+| :--- | :--- |
+| **Frontend Architecture** | TypeScript, Next.js 15 (App Router, Server Actions), React, Tailwind CSS, Shadcn/UI |
+| **Backend & Services** | Python (FastAPI, Pydantic), Node.js, Express.js, REST APIs, OAuth 2.0, NextAuth (JWT) |
+| **Data Layer & ORMs** | PostgreSQL, MongoDB, SQLite, Prisma ORM (Connection Pooling, Schema Migrations) |
+| **Agentic AI Systems** | LangChain, LangGraph (Cyclic Multi-Agent Graphs), Groq LPU API, Structured JSON Schemas |
+| **Tooling & Operations** | Git, Postman, Linux Environments, Vercel Edge Runtime, Serverless Workflows |
 
 ---
 
-### ⚡ JSON-IQ
+## 🛠️ Deep-Dive Project Case Studies
 
-AI-powered JSON workbench that validates, formats, minifies, analyzes, and explains JSON errors using AI.
+### 1. 🚀 Nexora — Enterprise Multi-Tenant SaaS Workspace Platform
+> **Architecture Focus:** Tenant Isolation, Role-Based Access Control (RBAC), and Optimized Data Fetching.  
+> **Source:** [github.com/ansh35/Nexora](https://github.com/ansh35/Nexora)
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Groq API
-
-🔗 Live Demo: https://json-iq.vercel.app
-
-🔗 Repository: https://github.com/ansh35/JSON_IQ
-
----
-
-### 📧 AI Email Cleaner
-
-AI-powered email management platform that categorizes emails, identifies spam/promotional content, and provides intelligent inbox cleanup recommendations.
-
-**Tech Stack:** Next.js, TypeScript, Prisma, Gmail API, Groq AI, Tailwind CSS
-
-🔗 Repository: https://github.com/ansh35/AI_Email_Cleaner
+* **Multi-Tenant Data Isolation:** Engineered clean data-layer separation ensuring users only access organization-scoped data; applied compound Prisma indexing across `tenantId` and resource primary keys for ultra-fast query lookups.
+* **Granular RBAC Pipeline:** Designed strict session & token authorization middlewares to enforce Owner, Admin, and Member capability boundaries across internal workspaces.
+* **Server-Side Rendering & Caching:** Built with Next.js App Router and React Server Components to eliminate layout shift, optimize Time to First Byte (TTFB), and cache repetitive tenant metadata.
+* **State & Form Resilience:** Integrated Zod-validated server action schemas paired with Shadcn/UI for deterministic input parsing and zero runtime data-leak vectors.
+* **Architecture Flow:** `[Client App]` → `[NextAuth JWT Session Gate]` → `[RBAC Middleware]` → `[Prisma ORM Layer]` → `[Tenant-Scoped DB]`
 
 ---
 
-## 🎯 Current Focus
+### 2. 🤖 AI Healthcare CRM Assistant — Autonomous HCP Interaction Engine
+> **Architecture Focus:** Cyclic Agentic Graphs, Strict Schema Validation, and Low-Latency Clinical Logging.  
+> **Source:** [github.com/ansh35/ai_first_crm_hcp_module_log_interaction_screen](https://github.com/ansh35/ai_first_crm_hcp_module_log_interaction_screen)
 
-* Building production-ready SaaS applications
-* Developing AI-powered products
-* Improving backend architecture and system design
-* Learning scalable software engineering practices
-* Contributing consistently to open-source and personal projects
-
----
-
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://anshkhare-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ansh-khare-4019a53aa)
-[![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge)](https://drive.google.com/file/d/1aFEIeNUV2R4P6N4c2AC_BD3ot24x5cP5/view)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/ansh35)
+* **Cyclic Multi-Agent State Machine:** Architected a state graph using **LangGraph** to process unstructured Healthcare Professional (HCP) conversation transcripts through extraction, verification, and CRM-sync nodes.
+* **Deterministic Structured JSON Output:** Utilized Pydantic schemas over Groq's low-latency inference engine to eliminate LLM hallucinations and enforce rigorous field validation (drug dosages, compliance markers, meeting metadata).
+* **High-Throughput Backend Service:** Built async microservices with **FastAPI** leveraging connection pooling over SQLite/PostgreSQL to handle concurrent ingestion without blocking event loops.
+* **Automated Task Scheduling:** Pipeline triggers automated next-step task creation, compliance flagging, and HCP sentiment classification directly into the CRM database.
+* **Pipeline Flow:** `[Unstructured Raw Log]` → `[FastAPI Endpoint]` → `[LangGraph Cyclic Agents]` → `[Pydantic JSON Validation]` → `[CRM DB Commit]`
 
 ---
 
-⭐ Open to Full-Stack Developer, Software Developer, Backend Developer, and Web Developer opportunities.
+### 3. 📧 AI Email Cleaner — Scalable Mail Operations & Triage Agent
+> **Architecture Focus:** OAuth 2.0 Security, Third-Party Batch Processing, and Privacy-Safe Categorization.  
+> **Source:** [github.com/ansh35/AI_Email_Cleaner](https://github.com/ansh35/AI_Email_Cleaner)
+
+* **Google OAuth 2.0 & Token Renewal:** Implemented granular Google API authorization flows with automated refresh token lifecycle management to prevent session interruptions.
+* **Batch Metadata Processing:** Engineered a bulk email parsing queue using the Gmail API, optimizing API rate limits by consuming paginated metadata headers instead of raw message payloads.
+* **High-Speed Inference Triage:** Batched non-confidential message headers into Groq LLM pipelines to cluster promotional blasts, newsletters, and transactional cold alerts in milliseconds.
+* **Safe Bulk Sweeping:** Architected two-step verification safeguards and soft-delete queues to prevent accidental loss of high-priority communications.
+
+---
+
+### 4. ⚡ JSON-IQ — Developer Workspace & AST Syntax Analyzer
+> **Architecture Focus:** Client-Side Parsing Performance, Real-Time AST Traversal, and Error Remediation.  
+> **Live Demo:** [json-iq.vercel.app](https://json-iq.vercel.app) &nbsp;|&nbsp; **Source:** [github.com/ansh35/JSON_IQ](https://github.com/ansh35/JSON_IQ)
+
+* **Zero-Lag Syntax Validation:** Built a high-performance in-browser JSON parser using Web APIs to perform instant formatting, minification, and recursive key-value tree traversing on megabyte-scale payloads.
+* **AI Error Diagnosis:** Integrated Groq's low-latency API to intercept malformed syntax errors (dangling commas, missing quotes, token mismatches) and output instantaneous one-click automated fixes.
+* **Responsive UI/UX:** Built with React, TypeScript, and clean custom styling for distraction-free developer workflows with immediate clipboard integration and export utilities.
+
+---
+
+## 📈 Engineering Cadence & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ansh35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9" height="155" alt="Ansh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh35&theme=tokyonight&hide_border=true&background=09090b&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9" height="155" alt="Ansh's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansh35&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Target Roles & Value Proposition
+
+- **Roles:** Full-Stack Developer | Software Development Engineer (SDE) | Backend Developer
+- **What I Deliver on Day 1:**
+  - Production-ready TypeScript & Next.js architectures with strict type safety and zero structural tech debt.
+  - Multi-agent orchestration workflows (LangGraph/LangChain) with deterministic JSON guardrails.
+  - Clean API design, transactional ORM queries, and secure auth integration (OAuth / JWT).
+- **Direct Connect:** [LinkedIn Profile](https://www.linkedin.com/in/ansh-khare-4019a53aa) &nbsp;•&nbsp; [Interactive Portfolio](https://anshkhare-portfolio.vercel.app/) &nbsp;•&nbsp; [Direct Resume](https://drive.google.com/file/d/1aFEIeNUV2R4P6N4c2AC_BD3ot24x5cP5/view)

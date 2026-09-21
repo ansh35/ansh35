@@ -4,7 +4,7 @@
   <p align="center">
     <a href="https://anshkhare-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ansh-khare-4019a53aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://drive.google.com/file/d/1aFEIeNUV2R4P6N4c2AC_BD3ot24x5cP5/view"><img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+    <a href="https://drive.google.com/file/d/191Bo6f9G-qZPFyTIpzA-dfuxFdKsEahP/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-059669?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
     <a href="https://github.com/ansh35"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
@@ -31,7 +31,7 @@
 ## 🛠️ Featured Engineering Projects
 
 ### 1. 🔍 CommentGlow — Semantic Code Highlighter (VS Code Marketplace)
-> **Published:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=commentglow.commentglow) &nbsp;|&nbsp; **Source:** [github.com/ansh35/CommentGlow](https://github.com/ansh35)  
+> **Published:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=commentglow.commentglow) &nbsp;|&nbsp; **Source:** [github.com/ansh35/CommentGlow](https://github.com/ansh35/CommentGlow)  
 > **Architecture Focus:** VS Code Decoration Lifecycle, Regex Tokenization, and Zero-Attack-Surface Security.
 
 * **Semantic Comment Parsing:** Implemented dynamic regular-expression parsing engines to style single-line, block, and multiline comment markers across the VS Code Decoration API.

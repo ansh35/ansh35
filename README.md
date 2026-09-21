@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0284c7,100:09090b&height=220&section=header&text=Ansh%20Khare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Type-Safe%20Web%20Systems%20%26%20Developer%20Tooling&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0284c7,100:09090b&height=220&section=header&text=Ansh%20Khare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Type-Safe%20Web%20Systems%20and%20Developer%20Tooling&descAlignY=58&descSize=18" width="100%" />
 
   <p align="center">
     <a href="https://anshkhare-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>

@@ -31,8 +31,8 @@
 ## 🛠️ Featured Engineering Projects
 
 ### 1. 🔍 CommentGlow — Semantic Code Highlighter (VS Code Marketplace)
-> **Architecture Focus:** VS Code Decoration Lifecycle, Regex Tokenization, and Zero-Attack-Surface Security.  
-> **Published:** [VS Code Marketplace](#) &nbsp;|&nbsp; **Source:** [github.com/ansh35/CommentGlow](https://github.com/ansh35)
+> **Published:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=commentglow.commentglow) &nbsp;|&nbsp; **Source:** [github.com/ansh35/CommentGlow](https://github.com/ansh35)  
+> **Architecture Focus:** VS Code Decoration Lifecycle, Regex Tokenization, and Zero-Attack-Surface Security.
 
 * **Semantic Comment Parsing:** Implemented dynamic regular-expression parsing engines to style single-line, block, and multiline comment markers across the VS Code Decoration API.
 * **Least-Privilege Security Architecture:** Engineered with strict zero-attack-surface security boundaries—zero network access, zero external runtime permissions, and zero dynamic code evaluation.
@@ -41,8 +41,8 @@
 ---
 
 ### 2. 🚀 Nexora — Enterprise Multi-Tenant SaaS Workspace Platform
-> **Architecture Focus:** Tenant Isolation, Role-Based Access Control (RBAC), and Optimized Data Fetching.  
-> **Source:** [github.com/ansh35/Nexora](https://github.com/ansh35/Nexora)
+> **Live Demo:** [nexora-ak.vercel.app](https://nexora-ak.vercel.app/) &nbsp;|&nbsp; **Source:** [github.com/ansh35/Nexora](https://github.com/ansh35/Nexora)  
+> **Architecture Focus:** Tenant Isolation, Role-Based Access Control (RBAC), and Optimized Data Fetching.
 
 * **Multi-Tenant Data Isolation:** Engineered clean data-layer separation ensuring users only access organization-scoped data; applied compound Prisma indexing across `tenantId` and resource primary keys for ultra-fast query lookups.
 * **Granular RBAC Pipeline:** Designed strict session & token authorization middlewares to enforce Owner, Admin, and Member capability boundaries across internal workspaces.
@@ -53,8 +53,8 @@
 ---
 
 ### 3. 📧 AI Email Cleaner — Scalable Mail Operations & Triage Agent
-> **Architecture Focus:** OAuth 2.0 Security, Third-Party Batch Processing, and Privacy-Safe Categorization.  
-> **Source:** [github.com/ansh35/AI_Email_Cleaner](https://github.com/ansh35/AI_Email_Cleaner)
+> **Demo Walkthrough:** [Watch Video Demo](https://drive.google.com/file/d/1J_q7gsQEIEWfTLsRs7jVTbajLbHDWUpD/view?usp=sharing) &nbsp;|&nbsp; **Source:** [github.com/ansh35/AI_Email_Cleaner](https://github.com/ansh35/AI_Email_Cleaner)  
+> **Architecture Focus:** OAuth 2.0 Security, Third-Party Batch Processing, and Privacy-Safe Categorization.
 
 * **Google OAuth 2.0 & Token Renewal:** Implemented granular Google API authorization flows with automated refresh token lifecycle management to prevent session interruptions.
 * **Batch Metadata Processing:** Engineered a bulk email parsing queue using the Gmail API, optimizing API rate limits by consuming paginated metadata headers instead of raw message payloads.
@@ -64,8 +64,8 @@
 ---
 
 ### 4. ⚡ JSON-IQ — Developer Workspace & AST Syntax Analyzer
-> **Architecture Focus:** Client-Side Parsing Performance, Real-Time AST Traversal, and Error Remediation.  
-> **Live Demo:** [json-iq.vercel.app](https://json-iq.vercel.app) &nbsp;|&nbsp; **Source:** [github.com/ansh35/JSON_IQ](https://github.com/ansh35/JSON_IQ)
+> **Live Demo:** [json-iq.vercel.app](https://json-iq.vercel.app) &nbsp;|&nbsp; **Source:** [github.com/ansh35/JSON_IQ](https://github.com/ansh35/JSON_IQ)  
+> **Architecture Focus:** Client-Side Parsing Performance, Real-Time AST Traversal, and Error Remediation.
 
 * **Zero-Lag Syntax Validation:** Built a high-performance in-browser JSON parser using Web APIs to perform instant formatting, minification, and recursive key-value tree traversing on megabyte-scale payloads.
 * **AI Error Diagnosis:** Integrated Groq's low-latency API to intercept malformed syntax errors (dangling commas, missing quotes, token mismatches) and output instantaneous one-click automated fixes.
